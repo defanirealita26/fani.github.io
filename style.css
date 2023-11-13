@@ -1,0 +1,10 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-display: standard;
+    justify-content: start;
+    align-items: start;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
